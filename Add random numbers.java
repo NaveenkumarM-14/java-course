@@ -1,4 +1,4 @@
-// print 2 numbers randomly
+// Add 2 numbers randomly
 
 import java.util.*;
 class randomNumber {
