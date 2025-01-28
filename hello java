@@ -1,7 +1,7 @@
 //TASK 1 : PRINT HELLO JAVA
 public class hello{
-public static void main(String args[])
-  {
-    System.out.println("HELLO JAVA");  //print statement
-  }
+   public static void main(String args[])
+   {
+     System.out.println("HELLO JAVA");  //print statement
+   }
 }
