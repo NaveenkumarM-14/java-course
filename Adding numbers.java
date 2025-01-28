@@ -1,5 +1,5 @@
 // Adding 2 numbers
-pubic class sum{
+pubic class sum2{
   public static void main(String []args){
     int a = 5;
     int b = 10;
@@ -9,7 +9,7 @@ pubic class sum{
 }
 // Adding 3 numbers
 
-pubic class sum{
+pubic class sum3{
   public static void main(String []args){
     int a = 5;
     int b = 10;
